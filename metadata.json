@@ -1,0 +1,5 @@
+{
+  "name": "Simple Student CRUD",
+  "description": "A lightweight, modern, and minimalist CRUD application for managing student data (Nama, Jurusan, NPM) using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
